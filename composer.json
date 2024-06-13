@@ -1,0 +1,7 @@
+{
+  "name": "modernadventure/altcha-wordpress",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": ">=v1.1.0"
+  }
+}
